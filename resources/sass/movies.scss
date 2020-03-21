@@ -1,0 +1,11 @@
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-around;
+    justify-content:space-evenly;
+    align-items:baseline;
+  }
+  .movie-card {
+      width: 14rem;
+      flex-grow: 1;
+  }
